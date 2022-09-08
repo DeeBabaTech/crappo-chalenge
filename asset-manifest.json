@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/crappo-challenge/static/css/main.525698e2.css",
+    "main.js": "/crappo-challenge/static/js/main.fc6b6df2.js",
+    "static/media/Illustration.png": "/crappo-challenge/static/media/Illustration.4d8e3ae9019b05e098f2.png",
+    "static/media/Base.png": "/crappo-challenge/static/media/Base.cf233659a120d86cd676.png",
+    "static/media/Table.png": "/crappo-challenge/static/media/Table.785537cb03905dfc7adb.png",
+    "static/media/Illustrations.png": "/crappo-challenge/static/media/Illustrations.b937d6b16af601ca6f70.png",
+    "static/media/Chart.png": "/crappo-challenge/static/media/Chart.0bf52c3147afd01780a7.png",
+    "index.html": "/crappo-challenge/index.html",
+    "static/media/Arrow Right.svg": "/crappo-challenge/static/media/Arrow Right.99a88ebe022cb0e3432bcbb1c1d02510.svg",
+    "main.525698e2.css.map": "/crappo-challenge/static/css/main.525698e2.css.map",
+    "main.fc6b6df2.js.map": "/crappo-challenge/static/js/main.fc6b6df2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525698e2.css",
+    "static/js/main.fc6b6df2.js"
+  ]
+}
