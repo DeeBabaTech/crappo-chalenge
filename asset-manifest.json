@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crappo-chalenge/static/css/main.525698e2.css",
-    "main.js": "/crappo-chalenge/static/js/main.c8810fc7.js",
+    "main.css": "/crappo-chalenge/static/css/main.ac99e3ef.css",
+    "main.js": "/crappo-chalenge/static/js/main.eab9e260.js",
     "static/media/Illustration.png": "/crappo-chalenge/static/media/Illustration.4d8e3ae9019b05e098f2.png",
     "static/media/Base.png": "/crappo-chalenge/static/media/Base.cf233659a120d86cd676.png",
     "static/media/Table.png": "/crappo-chalenge/static/media/Table.785537cb03905dfc7adb.png",
@@ -9,11 +9,11 @@
     "static/media/Chart.png": "/crappo-chalenge/static/media/Chart.0bf52c3147afd01780a7.png",
     "index.html": "/crappo-chalenge/index.html",
     "static/media/Arrow Right.svg": "/crappo-chalenge/static/media/Arrow Right.99a88ebe022cb0e3432bcbb1c1d02510.svg",
-    "main.525698e2.css.map": "/crappo-chalenge/static/css/main.525698e2.css.map",
-    "main.c8810fc7.js.map": "/crappo-chalenge/static/js/main.c8810fc7.js.map"
+    "main.ac99e3ef.css.map": "/crappo-chalenge/static/css/main.ac99e3ef.css.map",
+    "main.eab9e260.js.map": "/crappo-chalenge/static/js/main.eab9e260.js.map"
   },
   "entrypoints": [
-    "static/css/main.525698e2.css",
-    "static/js/main.c8810fc7.js"
+    "static/css/main.ac99e3ef.css",
+    "static/js/main.eab9e260.js"
   ]
 }
