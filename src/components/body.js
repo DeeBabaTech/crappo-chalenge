@@ -189,7 +189,7 @@ function Body() {
                     </div>
                     <div className='lg:flex mt-5 lg:mt-0'>
                         <input type='text' placeholder='Enter your hash rate' className='border-b-2 lg:w-72 mb-5 lg:mb-0 w-[100%] bg-inherit outline-none py-1 placeholder:text-white mr-7 lg:placeholder:text-xl'/>
-                        <div className='px-5 py-3 rounded-full m-auto text-white bg-blue-700 w-fit flex items-center'> Subscribe </div>
+                        <div className='px-5 py-3 rounded-full m-auto text-blue-700 bg-white w-fit flex items-center'> Subscribe </div>
                     </div>
                 </div>
             </div>
